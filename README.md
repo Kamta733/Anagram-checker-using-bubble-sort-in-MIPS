@@ -4,4 +4,10 @@ by rearranging the letters of one string and the number of characters in both th
 
 We have developed an algorithm to check whether two strings are anagram or not. To do this we have used MIPS assembly language code and implemented the algorithm in MARS IDE
 
-[MIPS assembly language : MIPS simply refers to the assembly language of MIPS processor. The term MIPS is an acronym for Microprocessor without Interlocked Pipeline Stage. It is a reduced-instruction set arcchitecture developed by an organization called MIPS. https://en.wikipedia.org/wiki/MIPS_architecture] 
+[MIPS assembly language : MIPS simply refers to the assembly language of MIPS processor. The term MIPS is an acronym for Microprocessor without Interlocked Pipeline Stage. It is a reduced-instruction set arcchitecture developed by an organization called MIPS.] 
+
+# Tool used 
+MARS IDE
+
+# Reference
+ https://en.wikipedia.org/wiki/MIPS_architecture
