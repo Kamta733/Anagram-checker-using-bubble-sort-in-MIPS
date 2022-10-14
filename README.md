@@ -7,6 +7,8 @@ We have developed an algorithm to check whether two strings are anagram or not. 
 [MIPS assembly language : MIPS simply refers to the assembly language of MIPS processor. The term MIPS is an acronym for Microprocessor without Interlocked Pipeline Stage. It is a reduced-instruction set arcchitecture developed by an organization called MIPS.] 
 
 # Block Diagram
+<img width="520" alt="Anagram_block_diagram" src="https://user-images.githubusercontent.com/84734976/195911010-fd95dc5e-cce6-499d-9294-d171183932c2.png">
+
 
 # Tool used 
 MARS IDE
