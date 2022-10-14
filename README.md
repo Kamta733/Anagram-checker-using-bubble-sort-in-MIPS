@@ -9,5 +9,5 @@ We have developed an algorithm to check whether two strings are anagram or not. 
 # Tool used 
 MARS IDE
 
-# Reference
+# Useful reference
  https://en.wikipedia.org/wiki/MIPS_architecture
